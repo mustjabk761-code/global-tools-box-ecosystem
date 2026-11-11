@@ -33,6 +33,10 @@ Welcome to the official open-source repository for the **Global Tools Box Ecosys
 * **Backend & API Proxy:** Cloudflare Workers, Cloudflare R2, Firebase Realtime Database
 * **Hosting:** Cloudflare Pages, GitHub Pages
 
+### 5. [Global Tools Box Launch](https://launch.globaltoolsbox.online/)
+**Global Tools Box Launch** is a free product launch platform designed for indie makers, developers, and creators to showcase and index their web tools.
+* **Website:** [https://launch.globaltoolsbox.online/](https://launch.globaltoolsbox.online/)
+* **Key Features:** Free product submissions, maker directory, fast indexing, developer showcase.
 ---
 
 ## 📌 Keywords & Categories
