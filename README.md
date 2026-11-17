@@ -38,6 +38,28 @@ Welcome to the official open-source repository for the **Global Tools Box Ecosys
 * **Website:** [https://launch.globaltoolsbox.online/](https://launch.globaltoolsbox.online/)
 * **Key Features:** Free product submissions, maker directory, fast indexing, developer showcase.
 ---
+## 🌐 Official Directory Hub & Indie Maker Resources
+
+To streamline discovery and provide instant, centralized access across all web applications, browser extensions, and developer tools, the **Global Tools Box Ecosystem** maintains an official verified directory hub alongside comprehensive educational publications for independent builders.
+
+### 🔗 Centralized Ecosystem Directory (Campsite.bio)
+Our official link hub serves as a single-page gateway connecting users, developers, and search crawlers directly to every active platform in our network without unnecessary redirects or friction. Whether you need quick browser-based financial calculators, interactive 3D architectural floor plan rendering, an ATS-friendly resume builder, or a free platform to showcase your own digital products, you can navigate to any tool directly from our verified profile:
+
+* **Official Bio & Ecosystem Hub:** [https://campsite.bio/mustjab761](https://campsite.bio/mustjab761)
+* **What You Will Find:** Direct verified links to **Global Tools Box**, **ProductNest**, **Launch Hub**, **PlanScaper 3D**, and **ATS Resume Builder**, updated continuously as new micro-SaaS utilities and web tools are deployed.
+
+### 📚 Featured Publication: The 2026 Indie Maker Playbook
+Beyond building client-side utilities and directory platforms, we actively document practical strategies for solo developers, bootstrappers, and digital creators. Our featured guide on **Scribd** breaks down how modern indie makers can build, launch, and scale zero-cost web applications without relying on heavy backend infrastructure or complex sign-up barriers.
+
+* **Read Full Guide on Scribd:** [The 2026 Indie Maker Playbook (No Sign-Up Edition)](https://www.scribd.com/document/1097049103/The-2026-Indie-Maker-Playbook-No-Sign-Up)
+* **Key Topics Covered:**
+  * Designing friction-free, client-side web tools that respect user privacy and load instantaneously on mobile and desktop browsers.
+  * Leveraging free edge hosting, serverless proxies, and lightweight architectures to keep operational costs near zero.
+  * Effective distribution, organic indexing, and directory submission workflows for solo founders launching new SaaS products and utilities.
+
+By connecting our GitHub documentation with our **Campsite.bio** profile and **Scribd** publication, developers and users can easily explore our live software ecosystem while accessing actionable resources for building on the open web.
+
+---
 
 ## 📌 Keywords & Categories
 `web-utilities` `developer-tools` `3d-floor-plan` `product-launch` `resume-builder` `financial-calculators` `javascript-tools`
