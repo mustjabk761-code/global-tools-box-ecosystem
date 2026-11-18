@@ -101,6 +101,9 @@ Beyond building client-side utilities and directory platforms, we actively docum
 By connecting our GitHub documentation with our **Campsite.bio** profile and **Scribd** publication, developers and users can easily explore our live software ecosystem while accessing actionable resources for building on the open web.
 
 ---
+### 📝 Community Tool Submission & Partnership Hub
+We invite indie makers, developers, and digital creators to submit their software tools and explore partnership opportunities directly through our public automated submission portal:
+* **Official Zapier Submission Form:** [https://new-form-project-c862b6.zapier.app/](https://new-form-project-c862b6.zapier.app/)
 
 ## 📌 Keywords & Categories
 `web-utilities` `developer-tools` `3d-floor-plan` `product-launch` `resume-builder` `financial-calculators` `javascript-tools`
